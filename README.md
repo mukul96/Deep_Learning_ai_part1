@@ -6,4 +6,4 @@ Course2  [Improving Neural networks](https://www.coursera.org/learn/deep-neural-
 
 Course3  [Structuring Machine learning projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 
-Course4  [Covolution Neural Networks till week3](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+Course4  [Covolution Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
